@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elements",
+  "name": "Elements of Minecraft",
+  "description": "Learn the basic elements of Minecraft with this cool mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Codakid"],
+  "credits": "Matthew at Codakid made this Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

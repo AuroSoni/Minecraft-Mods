@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mmm",
+    " le",
+    "  l"
+  ],
+  "key": {
+    "m" : {
+        "item" : "minecraft:milk_bucket"
+    },
+    "l" : {
+        "item" : "minecraft:leather"
+    },
+    "e" : {
+        "item" : "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item" : "foundations:cow_gun"
+  }
+}

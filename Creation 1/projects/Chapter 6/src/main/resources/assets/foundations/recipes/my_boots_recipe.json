@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "r r",
+    "ddd"
+  ],
+  "key": {
+    "d" : {
+        "item" : "minecraft:diamond"
+    },
+    "r" : {
+        "item" : "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item" : "foundations:my_boots"
+  }
+}

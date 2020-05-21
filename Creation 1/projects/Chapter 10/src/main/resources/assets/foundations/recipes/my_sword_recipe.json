@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " m ",
+    " m ",
+    " h "
+  ],
+  "key": {
+    "m": { 
+      "item": "minecraft:diamond"
+     },
+    "h": { 
+      "item": "minecraft:blaze_rod"
+     }
+  },
+  "result": {
+    "item": "foundations:my_sword"
+  }
+}

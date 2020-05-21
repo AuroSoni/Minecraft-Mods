@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    " b ",
+    " b "
+ 
+  ],
+  "key": {
+    "d":{
+        "item":"foundations:my_ingot"
+   },
+   "b":{
+        "item":"minecraft:blaze_rod"
+    }
+ },
+  "result": {
+        "item":"foundations:my_pickaxe"
+ }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rsp",
+    " t ",
+    " t "
+  ],
+  "key": {
+    "r": {
+        "item" : "minecraft:netherrack"
+    },
+    "s" : {
+        "item" : "minecraft:soul_sand"
+    },
+    "p" : {
+        "item" : "minecraft:nether_star"
+    },
+    "t" : {
+        "item" : "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "foundations:my_hammer"
+  }
+}

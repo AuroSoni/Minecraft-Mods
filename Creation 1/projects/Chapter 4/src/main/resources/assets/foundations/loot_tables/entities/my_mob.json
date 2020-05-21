@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "name": "foundations:my_mob",
+      "rolls":5,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone_block",
+          "weight": 1
+        },
+        {
+          "type": "item",
+         "name": "minecraft:golden_horse_armor",
+         "weight": 1
+       }
+     ]
+    }
+  ]
+}

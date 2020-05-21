@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "ggg",
+    "ggg"
+  ],
+  "key": {
+    "g" : {
+        "item" : "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item" : "foundations:my_grenade",
+    "count" : 3
+  }
+}

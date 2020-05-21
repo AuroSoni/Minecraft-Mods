@@ -1,0 +1,231 @@
+2020-04-05 12:00:37: ************************** 2020-04-05 12:00:37 ***********************************
+2020-04-05 12:00:37: Init directory: "C:\Program Files (x86)\CodaKid Mod Creation Essentials\CodakidProjectManagerFiles\resources\app"
+2020-04-05 12:00:37: Final directory: "C:\Users\aurok\Desktop\Codakid\CodaKid Mod Creation Essentials"
+2020-04-05 12:00:37: Platform: Windows
+2020-04-05 12:00:37: Drive: C
+2020-04-05 12:00:37: Application started
+2020-04-05 12:00:37: Application configured
+2020-04-05 12:00:37: populating list of projects
+2020-04-05 12:00:37: Removing system projects from the list
+2020-04-05 12:00:37: Not Pushed => 'forgeDefault'
+2020-04-05 12:00:37: Remove all items from display table
+2020-04-05 12:00:37: Add items to display table
+2020-04-05 12:00:37: Add events to table rows
+2020-04-05 12:00:37: Finished populating list of projects
+2020-04-05 12:00:37: Project list populated
+2020-04-05 12:00:37: No project was found. Displaying new project window
+2020-04-05 12:00:38: Free space: 116021 MB
+2020-04-05 12:00:47: PM INI path: C:\Program Files (x86)\CodaKid Mod Creation Essentials\CodakidProjectManagerFiles\pm.ini
+2020-04-05 12:00:47: Creating project: Chapter 1
+2020-04-05 12:00:47: INI content: JDK=C:\Program Files\Java\jdk1.8.0_191
+
+2020-04-05 12:00:47: Update gradle bat content
+2020-04-05 12:00:47: reset expected output
+2020-04-05 12:00:47: initializing gradlew setupDecompWorkspace
+2020-04-05 12:00:48: To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/2.14/userguide/gradle_daemon.html.
+
+2020-04-05 12:00:57: This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril.
+
+2020-04-05 12:00:57: #################################################
+
+2020-04-05 12:00:57:          ForgeGradle 2.3-SNAPSHOT-6084129e        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+             http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+     Fesh0r, IngisKahn, bspkrs, LexManos         
+2020-04-05 12:00:57: 
+#################################################
+
+2020-04-05 12:00:57: :deobfCompileDummyTask
+2020-04-05 12:00:57: 
+
+2020-04-05 12:00:57: :deobfProvidedDummyTask
+2020-04-05 12:00:57: 
+
+2020-04-05 12:00:57: :getVersionJson
+2020-04-05 12:00:58: 
+
+2020-04-05 12:00:58: :extractUserdev
+2020-04-05 12:00:58: 
+
+2020-04-05 12:00:58: :extractDependencyATs SKIPPED
+:extractMcpData
+2020-04-05 12:00:58:  SKIPPED
+
+2020-04-05 12:00:58: :extractMcpMappings
+2020-04-05 12:00:59:  SKIPPED
+
+2020-04-05 12:00:59: :genSrgs
+2020-04-05 12:00:59:  SKIPPED
+
+2020-04-05 12:00:59: :downloadClient
+2020-04-05 12:00:59:  SKIPPED
+:downloadServer
+2020-04-05 12:01:00:  SKIPPED
+
+2020-04-05 12:01:00: :splitServerJar
+2020-04-05 12:01:05:  SKIPPED
+:mergeJars
+2020-04-05 12:01:06:  SKIPPED
+
+2020-04-05 12:01:06: :deobfMcSRG
+2020-04-05 12:01:07:  SKIPPED
+
+2020-04-05 12:01:07: :decompileMc
+2020-04-05 12:01:08:  SKIPPED
+:fixMcSources
+2020-04-05 12:01:08:  SKIPPED
+:applySourcePatches
+2020-04-05 12:01:15: 
+:remapMcSources
+2020-04-05 12:01:24: 
+
+2020-04-05 12:01:24: :recompileMc
+2020-04-05 12:01:25:  SKIPPED
+:extractNatives
+2020-04-05 12:01:27:  SKIPPED
+
+2020-04-05 12:01:27: :getAssetIndex
+2020-04-05 12:01:28:  UP-TO-DATE
+:getAssets
+2020-04-05 12:01:29: 
+Current status: 1132/1305   86%
+
+2020-04-05 12:01:29: :makeStart
+2020-04-05 12:01:31: 
+
+2020-04-05 12:01:31: :setupDecompWorkspace
+
+2020-04-05 12:01:31: 
+BUILD SUCCESSFUL
+
+Total time: 44.016 secs
+
+2020-04-05 12:01:32: setupDecompWorkspace process finished with code: 0, signal: null, spawnErrorOccured: false
+2020-04-05 12:01:32: initializing gradlew --refresh-dependencies
+2020-04-05 12:01:33: To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/2.14/userguide/gradle_daemon.html.
+
+2020-04-05 12:02:24: This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril.
+
+2020-04-05 12:02:24: #################################################
+         ForgeGradle 2.3-SNAPSHOT-6084129e        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+
+2020-04-05 12:02:24:              http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+     Fesh0r, IngisKahn, bspkrs, LexManos         
+#################################################
+
+2020-04-05 12:02:24: :help
+2020-04-05 12:02:24: 
+
+
+2020-04-05 12:02:24: Welcome to Gradle 2.14.
+
+
+2020-04-05 12:02:24: To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see a list of command-line options, run gradlew --help
+
+To see more detail about a task, run gradlew help --task <task>
+
+2020-04-05 12:02:24: 
+BUILD SUCCESSFUL
+
+Total time: 52.281 secs
+
+2020-04-05 12:02:25: --refresh-dependencies process finished with code: 0, signal: null, spawnErrorOccured: false
+2020-04-05 12:02:25: initializing gradlew eclipse
+2020-04-05 12:02:26: To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/2.14/userguide/gradle_daemon.html.
+
+2020-04-05 12:02:31: This mapping 'snapshot_20171003' was designed for MC 1.12! Use at your own peril.
+
+2020-04-05 12:02:31: #################################################
+
+2020-04-05 12:02:31:          ForgeGradle 2.3-SNAPSHOT-6084129e        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+             http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+
+2020-04-05 12:02:31:      Fesh0r, IngisKahn, bspkrs, LexManos         
+#################################################
+
+2020-04-05 12:02:31: :deobfCompileDummyTask
+2020-04-05 12:02:31: 
+
+2020-04-05 12:02:31: :deobfProvidedDummyTask
+2020-04-05 12:02:31: 
+
+2020-04-05 12:02:31: :eclipseClasspath
+2020-04-05 12:02:32: 
+
+2020-04-05 12:02:32: :eclipseJdt
+2020-04-05 12:02:32: 
+
+2020-04-05 12:02:32: :eclipseProject
+2020-04-05 12:02:32: 
+
+2020-04-05 12:02:32: :getVersionJson
+2020-04-05 12:02:33: 
+:extractNatives
+2020-04-05 12:02:33:  SKIPPED
+
+2020-04-05 12:02:33: :extractUserdev
+2020-04-05 12:02:33:  UP-TO-DATE
+
+2020-04-05 12:02:33: :getAssetIndex
+2020-04-05 12:02:34:  UP-TO-DATE
+
+2020-04-05 12:02:34: :getAssets
+2020-04-05 12:02:35: 
+Current status: 1208/1305   92%
+
+2020-04-05 12:02:35: :makeStart
+2020-04-05 12:02:36: 
+
+2020-04-05 12:02:36: :makeEclipseCleanRunClient
+2020-04-05 12:02:36: 
+
+2020-04-05 12:02:36: :makeEclipseCleanRunServer
+2020-04-05 12:02:36: 
+
+2020-04-05 12:02:36: :eclipse
+2020-04-05 12:02:36: 
+
+2020-04-05 12:02:36: 
+
+2020-04-05 12:02:36: BUILD SUCCESSFUL
+
+Total time: 11.041 secs
+
+2020-04-05 12:02:37: eclipse process finished with code: 0, signal: null, spawnErrorOccured: false
+2020-04-05 12:02:37: populating list of projects
+2020-04-05 12:02:37: Removing system projects from the list
+2020-04-05 12:02:37: Pushed => 'Chapter 1'
+2020-04-05 12:02:37: Not Pushed => 'forgeDefault'
+2020-04-05 12:02:37: Remove all items from display table
+2020-04-05 12:02:37: Add items to display table
+2020-04-05 12:02:37: Adding project "Chapter 1"
+2020-04-05 12:02:37: Project added "Chapter 1"
+2020-04-05 12:02:37: Add events to table rows
+2020-04-05 12:02:37: Finished populating list of projects
+2020-04-05 12:02:37: Finished creating workspace: Chapter 1
+2020-04-05 12:02:55: Opening workspace => eclipse -data "C:\Users\aurok\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\Chapter 1\eclipse" from "C:\Program Files (x86)\CodaKid Mod Creation Essentials\eclipse"
+2020-04-05 12:36:28: stdout: => org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: C:\Users\aurok\Desktop\Codakid\CodaKid Mod Creation Essentials\projects\Chapter 1\eclipse\.metadata\.plugins\org.eclipse.m2e.logback.configuration\logback.1.7.0.20160603-1933.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+2020-04-05 12:36:28: stderr: => SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://464.fwk998283025:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://464.fwk998283025:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+

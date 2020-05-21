@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " r ",
+    "ddd",
+    "   "
+  ],
+  "key": {
+    "r" : {
+        "item" : "minecraft:redstone"
+    },
+    "d" : {
+        "item" : "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item" : "foundations:my_chestplate"
+  }
+}

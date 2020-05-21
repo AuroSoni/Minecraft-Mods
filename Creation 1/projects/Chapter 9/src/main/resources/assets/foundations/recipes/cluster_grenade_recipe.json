@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "hhh",
+    "hhh",
+    "hhh"
+  ],
+  "key": {
+    "h" : {
+        "item" : "foundations:my_grenade"
+    }
+  },
+  "result": {
+    "item" : "my_cluster_grenade"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lll",
+    " oo",
+    "  e"
+  ],
+  "key": {
+    "l" : {
+        "item" : "minecraft:lava_bucket"
+    },
+    "o" : {
+        "item" : "minecraft:obsidian"
+    },
+    "e" : {
+        "item" : "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item" : "foundations:lava_launcher"
+  }
+}

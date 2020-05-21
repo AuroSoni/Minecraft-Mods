@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+ ],
+  "key": {
+    "a": {
+        "item": "minecraft:bone_block"
+   },
+    "b": {
+        "item": "minecraft:iron_block"
+   },
+   "c": {
+    "item": "minecraft:pumpkin"
+  }
+ },
+  "result": {
+    "item": "foundations:lucky_block",
+    "count": 3
+ }
+}

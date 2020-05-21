@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ttt",
+    "ttt",
+    "ttt"
+  ],
+  "key": {
+    "t" : {
+        "item" : "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item" : "foundations:my_build_grenade"
+  }
+}

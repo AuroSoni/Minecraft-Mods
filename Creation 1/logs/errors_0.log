@@ -1,0 +1,18 @@
+2020-04-06 09:36:17: Error creating workspace: Chapter 3 => spawn error: java.net.UnknownHostException: files.minecraftforge.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+2020-04-06 09:36:38: Error creating workspace: Chapter 3 => spawn error: java.net.UnknownHostException: files.minecraftforge.net
+
+2020-04-06 13:00:41: exec error: Error: Command failed: eclipse -data "C:\Users\aurok\Desktop\Codakid\Codakid Mod Creation 1\projects\Chapter 3\eclipse"
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://464.fwk998283025:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://464.fwk998283025:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://464.fwk1914615775:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://464.fwk1914615775:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+
+2020-04-07 11:29:26: Error creating workspace: Chapter 4 => spawn error: Network is unreachable: recv failed
+
